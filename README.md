@@ -1,2 +1,2 @@
 # Robot-Manipulator
-![image](https://github.com/Ashutoshss/Robot-Manipulator/assets/103228643/f711c062-b2ad-4d5d-81b8-dbf400a84dc8)
+![Screenshot 2024-05-02 184743](https://github.com/Ashutoshss/Robot-Manipulator/assets/103228643/593213c6-ae77-4c3d-bc85-3ec4c3319a6e)
