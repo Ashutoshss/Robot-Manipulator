@@ -164,3 +164,4 @@ slider6.set(Position[5])
 slider6.grid(row=5,column=1,padx=1,pady=5)
 
 root.mainloop()
+#                                                                                        code written by Ashutosh Singh
